@@ -1,3 +1,6 @@
+Hello.. 
+                                                         #  Kirtesh.pawar2009@gmail.com  # 
+
 - 👋 Hi, I’m @kirtesh1405
 - 👀 I’m interested in ... Core python programming,Automation, Machine learning ,CAE Simulations , like to paly with big data 😃
 - 🌱 I’m currently learning ... Deep Learing , R ... 
