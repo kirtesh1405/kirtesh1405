@@ -3,7 +3,7 @@
 **Data Scientist | AI/ML Engineer | Virtual Product Development | Product Cost Modeling**  
 📍 Pune, India  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/kirtesh-pawar/](https://www.linkedin.com/in/kirtesh-pawar-6b076954/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([[https://www.linkedin.com/in/kirtesh-pawar/](https://www.linkedin.com/in/kirtesh-pawar-6b076954/)](https://www.linkedin.com/in/kirtesh-pawar-6b076954/))  
 [![Email](https://img.shields.io/badge/Email-kirtesh.pawar2009%40gmail.com-red?logo=gmail)](mailto:kirtesh.pawar2009@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-BandhaniyaAI-green?logo=github)](https://github.com/kirteshpawar)  
 
